@@ -4,6 +4,6 @@
 
 - `latest.json`：软件更新清单
 - `content.json`：菜谱数据
-- `suishenzhushou-v1.7.apk`：安卓直接安装包
-- `suishenzhushou-v1.7.package`：App 内更新包
-- `suishenzhushou-v1.7.zip`：手动下载包
+- `suishenzhushou-v1.8.apk`：当前安卓直接安装包
+- `suishenzhushou-v1.8.package`：当前 App 内更新包
+- `suishenzhushou-v1.8.zip`：当前手动下载包
