@@ -1,17 +1,17 @@
 {
   "schemaVersion": 1,
   "app": {
-    "versionCode": 9,
-    "versionName": "1.8.0",
-    "packageUrl": "https://raw.githubusercontent.com/lhaining34-bit/suishenzhushou-updates/main/suishenzhushou-v1.8.package",
-    "manualUrl": "https://raw.githubusercontent.com/lhaining34-bit/suishenzhushou-updates/main/suishenzhushou-v1.8.apk",
-    "sha256": "DC8D9A755B3FFF8BE967C3FC39807A4C5FBF4296C9D649BE30645B8E59146C1D",
-    "publishedAt": "2026-09-01T16:22:46+08:00",
+    "versionCode": 10,
+    "versionName": "1.9.0",
+    "packageUrl": "https://raw.githubusercontent.com/lhaining34-bit/suishenzhushou-updates/main/suishenzhushou-v1.9.package",
+    "manualUrl": "https://raw.githubusercontent.com/lhaining34-bit/suishenzhushou-updates/main/suishenzhushou-v1.9.apk",
+    "sha256": "3EE5CFC6313CB53A2A8C81B1E839308DF0B9AE1BB466378DA15CD054E660E625",
+    "publishedAt": "2026-09-01T16:53:40+08:00",
     "mandatory": false,
     "releaseNotes": [
-      "淘宝和天猫来源优先直接唤起手机淘宝 App",
-      "京东和拼多多来源同步尝试打开对应平台 App",
-      "未安装对应平台时自动退回系统浏览器打开网页"
+      "修复淘宝深链失败后仍然跳系统浏览器的问题",
+      "先检测并通过安卓包名强制启动手机淘宝",
+      "淘宝商品链接无法直达时仍保持在淘宝 App，并显示打开结果"
     ]
   },
   "content": {
