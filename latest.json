@@ -1,22 +1,26 @@
 {
   "schemaVersion": 1,
   "app": {
-    "versionCode": 13,
-    "versionName": "1.12.0",
-    "packageUrl": "https://cdn.jsdelivr.net/gh/lhaining34-bit/suishenzhushou-updates@main/suishenzhushou-v1.12.package",
-    "manualUrl": "https://cdn.jsdelivr.net/gh/lhaining34-bit/suishenzhushou-updates@main/suishenzhushou-v1.12.apk",
-    "sha256": "A4CFF424B388F0E03529EC489683C9D4CBD5B3B89190B5852FC7285E1E3F0888",
-    "publishedAt": "2026-09-02T11:39:45+08:00",
+    "versionCode": 14,
+    "versionName": "1.13.0",
+    "packageUrl": "https://cdn.jsdelivr.net/gh/lhaining34-bit/suishenzhushou-updates@main/suishenzhushou-v1.13.package",
+    "packageUrls": [
+      "https://cdn.jsdelivr.net/gh/lhaining34-bit/suishenzhushou-updates@main/suishenzhushou-v1.13.package",
+      "https://raw.githubusercontent.com/lhaining34-bit/suishenzhushou-updates/main/suishenzhushou-v1.13.package"
+    ],
+    "manualUrl": "https://cdn.jsdelivr.net/gh/lhaining34-bit/suishenzhushou-updates@main/suishenzhushou-v1.13.apk",
+    "sha256": "992034D756DB9239C64E9F2AC4C5745B01584C91226419439B81D040B776481F",
+    "publishedAt": "2026-09-02T12:30:07+08:00",
     "mandatory": false,
     "releaseNotes": [
-      "重新设计首页和比价流程：首页可直接搜索，查询结果改为独立页面",
-      "商品类别、地区和额外优惠集中到一次性比价设置，不再挤在搜索页",
-      "结果页新增平台筛选和价格排序，报价卡片优先展示价格与打开平台按钮"
+      "重建手机自动更新：双线路下载、失败自动重试并切换备用线路",
+      "更新页面显示下载进度，失败原因会保留，不再只显示短暂提示",
+      "固定长期安装签名，并在安装前校验文件、应用标识和版本号"
     ]
   },
   "content": {
     "version": "2026.08.27.1",
-    "url": "https://raw.githubusercontent.com/lhaining34-bit/suishenzhushou-updates/main/content.json",
+    "url": "https://cdn.jsdelivr.net/gh/lhaining34-bit/suishenzhushou-updates@main/content.json",
     "sha256": "C321A6EF2C27AFCF2E34FF039555683B0539B047C58B8FEBF12D972C6173352B"
   }
 }
