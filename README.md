@@ -4,6 +4,6 @@
 
 - `latest.json`：软件更新清单
 - `content.json`：菜谱数据
-- `suishenzhushou-v1.13.apk`：最后一次需要手动安装的安卓包
-- `suishenzhushou-v1.13.package`：带双线路重试的 App 内更新包
-- `suishenzhushou-v1.13.zip`：当前手动下载包
+- `suishenzhushou-v2.0.apk`：当前安卓安装包
+- `suishenzhushou-v2.0.package`：供 App 双线路自动更新使用的安装包
+- `suishenzhushou-v2.0.zip`：当前手动下载包

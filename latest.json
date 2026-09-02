@@ -1,21 +1,22 @@
 {
   "schemaVersion": 1,
   "app": {
-    "versionCode": 14,
-    "versionName": "1.13.0",
-    "packageUrl": "https://cdn.jsdelivr.net/gh/lhaining34-bit/suishenzhushou-updates@main/suishenzhushou-v1.13.package",
+    "versionCode": 15,
+    "versionName": "2.0.0",
+    "packageUrl": "https://cdn.jsdelivr.net/gh/lhaining34-bit/suishenzhushou-updates@main/suishenzhushou-v2.0.package",
     "packageUrls": [
-      "https://cdn.jsdelivr.net/gh/lhaining34-bit/suishenzhushou-updates@main/suishenzhushou-v1.13.package",
-      "https://raw.githubusercontent.com/lhaining34-bit/suishenzhushou-updates/main/suishenzhushou-v1.13.package"
+      "https://cdn.jsdelivr.net/gh/lhaining34-bit/suishenzhushou-updates@main/suishenzhushou-v2.0.package",
+      "https://raw.githubusercontent.com/lhaining34-bit/suishenzhushou-updates/main/suishenzhushou-v2.0.package"
     ],
-    "manualUrl": "https://cdn.jsdelivr.net/gh/lhaining34-bit/suishenzhushou-updates@main/suishenzhushou-v1.13.apk",
-    "sha256": "992034D756DB9239C64E9F2AC4C5745B01584C91226419439B81D040B776481F",
-    "publishedAt": "2026-09-02T12:30:07+08:00",
+    "manualUrl": "https://cdn.jsdelivr.net/gh/lhaining34-bit/suishenzhushou-updates@main/suishenzhushou-v2.0.apk",
+    "sha256": "ED38C471C6E6171574728980DA3AF12441E60B264A0D0E702C4EE629A7B387AB",
+    "publishedAt": "2026-09-02T13:56:28+08:00",
     "mandatory": false,
     "releaseNotes": [
-      "重建手机自动更新：双线路下载、失败自动重试并切换备用线路",
-      "更新页面显示下载进度，失败原因会保留，不再只显示短暂提示",
-      "固定长期安装签名，并在安装前校验文件、应用标识和版本号"
+      "首页重构为“查清到手价”和“决定今天吃什么”两个直接入口",
+      "比价按来源独立联网，过滤无关型号，并把平台账号价核验放在结果首位",
+      "新增真实实付逐项核算，可从京东、淘宝/天猫、拼多多分享商品到随身助手",
+      "吃什么支持一键配餐、缺少食材清单、下厨顺序和大字分步做菜"
     ]
   },
   "content": {
