@@ -3,8 +3,8 @@
   "app": {
     "versionCode": 13,
     "versionName": "1.12.0",
-    "packageUrl": "https://raw.githubusercontent.com/lhaining34-bit/suishenzhushou-updates/main/suishenzhushou-v1.12.package",
-    "manualUrl": "https://raw.githubusercontent.com/lhaining34-bit/suishenzhushou-updates/main/suishenzhushou-v1.12.apk",
+    "packageUrl": "https://cdn.jsdelivr.net/gh/lhaining34-bit/suishenzhushou-updates@main/suishenzhushou-v1.12.package",
+    "manualUrl": "https://cdn.jsdelivr.net/gh/lhaining34-bit/suishenzhushou-updates@main/suishenzhushou-v1.12.apk",
     "sha256": "A4CFF424B388F0E03529EC489683C9D4CBD5B3B89190B5852FC7285E1E3F0888",
     "publishedAt": "2026-09-02T11:39:45+08:00",
     "mandatory": false,
