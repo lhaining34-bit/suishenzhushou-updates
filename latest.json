@@ -1,17 +1,17 @@
 {
   "schemaVersion": 1,
   "app": {
-    "versionCode": 12,
-    "versionName": "1.11.0",
-    "packageUrl": "https://raw.githubusercontent.com/lhaining34-bit/suishenzhushou-updates/main/suishenzhushou-v1.11.package",
-    "manualUrl": "https://raw.githubusercontent.com/lhaining34-bit/suishenzhushou-updates/main/suishenzhushou-v1.11.apk",
-    "sha256": "3CDBAC410D9ACE201D07104740BD55B20A0D5068D50E9A3B132AD1D00A8234DD",
-    "publishedAt": "2026-09-02T11:12:49+08:00",
+    "versionCode": 13,
+    "versionName": "1.12.0",
+    "packageUrl": "https://raw.githubusercontent.com/lhaining34-bit/suishenzhushou-updates/main/suishenzhushou-v1.12.package",
+    "manualUrl": "https://raw.githubusercontent.com/lhaining34-bit/suishenzhushou-updates/main/suishenzhushou-v1.12.apk",
+    "sha256": "A4CFF424B388F0E03529EC489683C9D4CBD5B3B89190B5852FC7285E1E3F0888",
+    "publishedAt": "2026-09-02T11:39:45+08:00",
     "mandatory": false,
     "releaseNotes": [
-      "新增本机历史最低价：联网比价后自动保存有效价格记录",
-      "结果页标记首次记录、当前历史最低、刷新最低以及与最低价的差额",
-      "新增历史价格页面，可重新查询、打开最低价来源并查询外部历史价"
+      "重新设计首页和比价流程：首页可直接搜索，查询结果改为独立页面",
+      "商品类别、地区和额外优惠集中到一次性比价设置，不再挤在搜索页",
+      "结果页新增平台筛选和价格排序，报价卡片优先展示价格与打开平台按钮"
     ]
   },
   "content": {
